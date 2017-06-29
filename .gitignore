@@ -46,3 +46,6 @@ j/
 bin/
 .settings/
 .project
+.idea/
+out/
+jar/
